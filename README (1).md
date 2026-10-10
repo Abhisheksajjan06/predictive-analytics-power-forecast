@@ -20,11 +20,11 @@ Build a predictive model that learns from past electricity usage and forecasts f
 
 ## Results
 <!-- Replace with the numbers printed when you ran the script -->
-| Model | MAE | RMSE | R2 | MAPE % |
-|---|---|---|---|---|
-| Naive (yesterday) | | | | |
-| Linear Regression | | | | |
-| Random Forest | | | | |
+| Model | MAE | RMSE  | MAPE % |
+|---|---|---|---|
+| Naive (yesterday) |1.76 |1.76 |81.201|
+| Linear Regression |0.449 |0.449 |46.219 |
+| Random Forest |1.474 |1.474 |151.721 |
 
 **Conclusion:** <!-- one or two sentences: which model won and why -->
 
