@@ -1,0 +1,4 @@
+Model,MAE,RMSE,R2,MAPE %
+Naive (yesterday),1.76,1.76,,181.201
+Linear Regression,0.449,0.449,,46.219
+Random Forest,1.474,1.474,,151.721
